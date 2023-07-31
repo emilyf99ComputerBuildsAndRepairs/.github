@@ -1,5 +1,5 @@
 # Computer Builds and Repairs
-
+No-Longer Being Updated, however still working on Hardware Projects
 ## Skills
 - Problem Solving
 - Trouble Shooting
